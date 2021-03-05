@@ -1,0 +1,33 @@
+html,body{
+    color: #282828;
+    height: 100%;
+}
+header{
+    background-color: #282828;
+}
+header img{
+    width: 250px;
+    display: block;
+}
+nav ul li{
+    color:#ffffff;
+    display: inline;
+}
+.home{
+    background-color: green;
+    background-image: url('img/bg.jpg');
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+}
+.home h1{
+    font-size: 60px;
+}
+.boton{
+    color:#FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #ffb400;
+    padding: 50px 50px 50px 50px;
+}
